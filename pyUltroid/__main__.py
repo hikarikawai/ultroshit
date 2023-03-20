@@ -67,9 +67,7 @@ def main():
     load_other_plugins(addons=addons, pmbot=pmbot, manager=manager, vcbot=vcbot)
 
     suc_msg = """
-            ----------------------------------------------------------------------
-                Ultroid has been deployed! Visit @TheUltroid for updates!!
-            ----------------------------------------------------------------------
+                Ultroshit has been deployed!🔥🔥🔥
     """
 
     # for channel plugins
