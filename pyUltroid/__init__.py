@@ -99,10 +99,10 @@ if run_as_module:
     DUAL_HNDLR = udB.get_key("DUAL_HNDLR") or "/"
     SUDO_HNDLR = udB.get_key("SUDO_HNDLR") or HNDLR
 else:
-    print("pyUltroid 2022 © TeamUltroid")
+    print("pyUltroshit 2023 © JustRex")
 
     from logging import getLogger
 
-    LOGS = getLogger("pyUltroid")
+    LOGS = getLogger("Ultroshit")
 
     ultroid_bot = asst = udB = vcClient = None
