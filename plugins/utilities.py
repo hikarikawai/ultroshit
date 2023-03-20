@@ -215,10 +215,10 @@ async def stats(
     response += f"**  •• **`Bots: {bots}` \n"
     response += f"**Groups:** {groups} \n"
     response += f"**Channels:** {broadcast_channels} \n"
-    response += f"**Admin in Groups:** {admin_in_groups} \n"
+    response += f"**Admin Grup:** {admin_in_groups} \n"
     response += f"**  •• **`Creator: {creator_in_groups}` \n"
     response += f"**  •• **`Admin Rights: {admin_in_groups - creator_in_groups}` \n"
-    response += f"**Admin in Channels:** {admin_in_broadcast_channels} \n"
+    response += f"**Admin Channels:** {admin_in_broadcast_channels} \n"
     response += f"**  •• **`Creator: {creator_in_channels}` \n"
     response += f"**  •• **`Admin Rights: {admin_in_broadcast_channels - creator_in_channels}` \n"
     response += f"**Unread:** {unread} \n"
@@ -235,7 +235,7 @@ async def _(event):
         input_str = event.text.split(maxsplit=1)[1]
     except IndexError:
         input_str = None
-    xx = await event.eor("` 《 Pasting... 》 `")
+    xx = await event.eor("` Pasting...  `")
     downloaded_file_name = None
     if input_str:
         message = input_str
@@ -335,19 +335,19 @@ async def _(event):
         dc_id = user.photo.dc_id
     else:
         dc_id = "Need a Profile Picture to check this"
-    caption = """<b>Exᴛʀᴀᴄᴛᴇᴅ Dᴀᴛᴀ Fʀᴏᴍ Tᴇʟᴇɢʀᴀᴍ's Dᴀᴛᴀʙᴀsᴇ<b>
-<b>••Tᴇʟᴇɢʀᴀᴍ ID</b>: <code>{}</code>
-<b>••Pᴇʀᴍᴀɴᴇɴᴛ Lɪɴᴋ</b>: <a href='tg://user?id={}'>Click Here</a>
-<b>••Fɪʀsᴛ Nᴀᴍᴇ</b>: <code>{}</code>
-<b>••Sᴇᴄᴏɴᴅ Nᴀᴍᴇ</b>: <code>{}</code>
-<b>••Bɪᴏ</b>: <code>{}</code>
-<b>••Dᴄ ID</b>: <code>{}</code>
-<b>••Nᴏ. Oғ PғPs</b> : <code>{}</code>
-<b>••Is Rᴇsᴛʀɪᴄᴛᴇᴅ</b>: <code>{}</code>
-<b>••Vᴇʀɪғɪᴇᴅ</b>: <code>{}</code>
-<b>••Is Pʀᴇᴍɪᴜᴍ</b>: <code>{}</code>
-<b>••Is A Bᴏᴛ</b>: <code>{}</code>
-<b>••Gʀᴏᴜᴘs Iɴ Cᴏᴍᴍᴏɴ</b>: <code>{}</code>
+    caption = """<b> 🔎 Info From Telegram Database :<b>
+<b>ID</b>: <code>{}</code>
+<b>LINK</b>: <a href='tg://user?id={}'>Click Here</a>
+<b>FIRST NAME</b>: <code>{}</code>
+<b>SECOND NAME</b>: <code>{}</code>
+<b>BIO</b>: <code>{}</code>
+<b>DC ID</b>: <code>{}</code>
+<b>NO PFPS</b> : <code>{}</code>
+<b>RESTRICTED</b>: <code>{}</code>
+<b>VERIFIED</b>: <code>{}</code>
+<b>PREMIUM</b>: <code>{}</code>
+<b>BOT</b>: <code>{}</code>
+<b>GROUP IN COMMON</b>: <code>{}</code>
 """.format(
         user_id,
         user_id,
