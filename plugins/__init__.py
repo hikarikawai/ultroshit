@@ -69,17 +69,19 @@ NOSPAM_CHAT = [
     -1001050982793,  # Python
     -1001256902287,  # DurovsChat
     -1001473548283,  # SharingUserbot
+    -1001683749664,  # XASUPPORT
+    -1001724913185,  # SELLER TEDE
 ]
 
 KANGING_STR = [
-    "Using Witchery to kang this sticker...",
-    "Plagiarising hehe...",
-    "Inviting this sticker over to my pack...",
-    "Kanging this sticker...",
-    "Hey that's a nice sticker!\nMind if I kang?!..",
-    "Hehe me stel ur stiker...",
-    "Ay look over there (☉｡☉)!→\nWhile I kang this...",
-    "Roses are red violets are blue, kanging this sticker so my pack looks cool",
+    "Menggunakan Sihir untuk kang stiker ini...",
+    "Plagiat hehe...",
+    "Mengundang stiker ini ke paket saya...",
+    "Kanging stiker ini...",
+    "Hei, itu stiker yang bagus!\nKeberatan jika saya kang?!..",
+    "Hehe saya mencuri stiker Anda...",
+    "Ay lihat ke sana (☉｡☉)!→\nSementara aku kang ini...",
+    "Mawar merah violet biru, kanging stiker ini jadi pakku terlihat keren",
     "Imprisoning this sticker...",
     "Mr.Steal-Your-Sticker is stealing this sticker... ",
 ]
