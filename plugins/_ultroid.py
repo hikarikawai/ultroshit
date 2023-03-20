@@ -14,7 +14,7 @@ from telethon.errors import (
 from . import LOG_CHANNEL, LOGS, Button, asst, eor, get_string, ultroid_cmd
 
 REPOMSG = """
-• **ULTROID USERBOT** •\n
+• **ULTROSHIT USERBOT** •\n
 • Repo - [Jangan diklik](https://xvideos.com)
 • Rexa - [Click Here](https://t.me/JustRex)
 • Support - @rexaprivateroom
