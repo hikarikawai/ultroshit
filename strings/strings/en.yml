@@ -137,12 +137,12 @@ autopic_4: "AUTOPIC was not in use !!"
 autopic_5: "AUTOPIC Stopped!"
 
 # inline
-inline_1: "[Uʟᴛʀᴏɪᴅ Sᴜᴘᴘᴏʀᴛ](t.me/UltroidSupportChat)\n\n**Hᴇʟᴘ Mᴇɴᴜ Oғ {}.\n\nPʟᴜɢɪɴs ~ {}**"
-inline_2: "[Uʟᴛʀᴏɪᴅ Sᴜᴘᴘᴏʀᴛ](t.me/UltroidSupportChat)\n\n**Hᴇʟᴘ Mᴇɴᴜ Oғ {}.\n\nAᴅᴅᴏɴs ~ {}**"
-inline_3: "[Uʟᴛʀᴏɪᴅ Sᴜᴘᴘᴏʀᴛ](t.me/UltroidSupportChat)\n\n**Hᴇʟᴘ Mᴇɴᴜ Oғ {}.\n\nAᴅᴅᴏɴs ~ {}\n\nDᴏ **`.setdb ADDONS True`** ᴀɴᴅ ʀᴇsᴛᴀʀᴛ ᴛᴏ ɢᴇᴛ ᴀᴅᴅᴏɴs.**"
+inline_1: "[Ultroshit Support](t.me/rexaprivateroom)\n\n**Hᴇʟᴘ Mᴇɴᴜ Oғ {}.\n\nPʟᴜɢɪɴs ~ {}**"
+inline_2: "[Ultroshit Support](t.me/rexaprivateroom)\n\n**Hᴇʟᴘ Mᴇɴᴜ Oғ {}.\n\nAᴅᴅᴏɴs ~ {}**"
+inline_3: "[Ultroshit Support](t.me/rexaprivateroom)\n\n**Hᴇʟᴘ Mᴇɴᴜ Oғ {}.\n\nAᴅᴅᴏɴs ~ {}\n\nDᴏ **`.setdb ADDONS True`** ᴀɴᴅ ʀᴇsᴛᴀʀᴛ ᴛᴏ ɢᴇᴛ ᴀᴅᴅᴏɴs.**"
 inline_4: "** Bᴏᴛ Oғ {}\n\nMᴀɪɴ Mᴇɴᴜ\n\nPʟᴜɢɪɴs ~ {}\nAᴅᴅᴏɴs ~ {}\nTᴏᴛᴀʟ Cᴏᴍᴍᴀɴᴅs ~ {}**"
 inline_5: "**Mᴇɴᴜ Hᴀs Bᴇᴇɴ Cʟᴏsᴇᴅ**"
-inline_6: "**Voice Chat Help Menu for {}**\n**Available Commands:** `{}`\n\n@TeamUltroid"
+inline_6: "**Voice Chat Help Menu for {}**\n**Available Commands:** `{}`\n\n@JustRex"
 inline_7: "Do .help {} to get the list of commands."
 inline_8: "Click the below button to update!"
 inline_9: "You Are Already On Latest Version"
@@ -159,12 +159,12 @@ wspr_4: "User {} Not Found\nSearch Again"
 wspr_5: "You Can't do this"
 
 # afk
-afk_1: "**No Longer Afk**\n\nWas away for ~ `{}`"
+afk_1: "**Tidak Lagi Afk**\n\nPergi untuk ~ `{}`"
 afk_2: "💤AFK\nSet AFK mode to False.\nWas AFK since ~ `{}`"
-afk_3: "**I'm currently AFK.**\nLast seen `{}` ago.\n\n**Reason:** `{}`"
-afk_4: "**I'm currently AFK.**\n\nLast seen `{}` ago."
-afk_5: "**I'm Going AFK.**\n\n**Reason:** `{}`"
-afk_6: "**I'm Going AFK.**"
+afk_3: "💤 **Saya saat ini AFK.**\nTerakhir terlihat `{}` ago.\n\n**Alasan:** `{}`"
+afk_4: "💤 **Saya saat ini AFK.**\n\nTerakhir terlihat `{}` ago."
+afk_5: "**Saya Akan AFK.**\n\n**Alasan:** `{}`"
+afk_6: "**Saya Akan AFK.**"
 
 # bot
 bot_1: "🚀 I am Fucking alive."
@@ -277,7 +277,7 @@ devs_2: "`Give some python cmd`"
 devs_3: "`Give Some C++ Code..`"
 
 # dm
-dm_1: "`Give Chat username or id where to send.`"
+dm_1: "`Berikan nama pengguna atau id Obrolan ke mana harus mengirim.`"
 dm_2: "`Give text to send or reply to msg`"
 dm_3: "💌 Message Delivered!"
 dm_4: "Error : {}\nRead Usage : `{}help other`"
@@ -288,7 +288,7 @@ dm_6: "`No message found to deliver :(`"
 echo_1: "**Activated Echo For Users:**\n\n"
 
 # fake action
-fka_1: "Starting Fake Action For {} sec."
+fka_1: "Memulai Tindakan Palsu Untuk {} Detik."
 
 # fedutils
 sf_1: "Starting a Mass-FedBan..."
@@ -379,8 +379,8 @@ pmperm_2: "Eyy, I told you not to spam!\nYou've been blocked and reported, for n
 pmperm_3: "Reply to someone's message or try this command in private."
 
 # schedule_msg
-schdl_1: "`Scheduled msg Succesfully`"
-schdl_2: "`Incorrect Format`"
+schdl_1: "`Pesan terjadwal Berhasil`"
+schdl_2: "`Format Salah`"
 
 # searches
 srch_1: "`Search for whom? Give me a user name!!`"
@@ -547,7 +547,7 @@ clst_4: "Something went wrong..."
 clst_5: "Done!"
 
 # pmbot
-pmbot_1: "**You need to join below chat(s) in order to chat with my master!\n\n**"
+pmbot_1: "**Anda harus bergabung dengan obrolan di bawah ini untuk mengobrol dengan tuan saya!\n\n**"
 pmbot_2: "Please reply to someone to ban him."
 pmbot_3: "User is already banned!"
 pmbot_4: "`GoodBye! You have been banned.`\n**Further messages you send will not be forwarded.**"
@@ -557,7 +557,7 @@ pmbot_7: "`Congrats! You have been unbanned.`"
 
 # -------------------------- VcBot ------------------------------- #
 
-vcbot_1: "`Left the voice chat.`"
+vcbot_1: "`Meninggalkan obrolan suara.`"
 vcbot_2: "**ERROR:**\n{}"
 vcbot_3: "• Volume Changed to `{}%` •"
 vcbot_4: "`Please specify a volume from 1 to 200!`"
