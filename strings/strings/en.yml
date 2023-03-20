@@ -160,21 +160,21 @@ wspr_5: "You Can't do this"
 
 # afk
 afk_1: "**No Longer Afk**\n\nWas away for ~ `{}`"
-afk_2: "#AFK\nSet AFK mode to False.\nWas AFK since ~ `{}`"
+afk_2: "💤AFK\nSet AFK mode to False.\nWas AFK since ~ `{}`"
 afk_3: "**I'm currently AFK.**\nLast seen `{}` ago.\n\n**Reason:** `{}`"
 afk_4: "**I'm currently AFK.**\n\nLast seen `{}` ago."
 afk_5: "**I'm Going AFK.**\n\n**Reason:** `{}`"
 afk_6: "**I'm Going AFK.**"
 
 # bot
-bot_1: "Hey,  I am alive."
+bot_1: "🚀 I am Fucking alive."
 bot_2: "Stats"
 bot_3: "Repo"
 bot_4: "Support"
 bot_5: "• `Restarting...`"
-alive_1: "**The Ultroid Userbot...**\n\n**{}**\n\n✵ **Owner** - `{}`\n✵ **Ultroid** - `{}`\n✵ **Py-Ultroid** - `{}`\n✵ **UpTime** - `{}`\n✵ **Python** - `{}`\n✵ **Telethon** - `{}`\n✵ **Branch** - `{}`"
-log: "**Heroku** Ultroid Logs.\nPasted [here]({}) too!"
-ping: "**Pong !!** `{}ms`\n**Uptime** - `{}`"
+alive_1: "**The Ultroshit Userbot...**\n\n**{}**\n\n✵ **Owner** - `{}`\n✵ **Ultroshit** - `{}`\n✵ **Py-Ultroshit** - `{}`\n✵ **UpTime** - `{}`\n✵ **Python** - `{}`\n✵ **Telethon** - `{}`\n✵ **Branch** - `{}`"
+log: "**Heroku** Ultroshit Logs.\nPasted [here]({}) too!"
+ping: "🔥 **Pong !!** `{}ms`\n**Uptime** - `{}`"
 usage: "**⚙️ Dyno Usage ⚙️**:\n\n-> **Dyno usage for** `{}`:\n  •  **{}h**  **{}m |** `[{}%]`\n-> **Dyno hours quota remaining this month**:\n  •  **{}h**  **{}m |** `[{}%]`\n\n**Total Disk Space**: `{}`\n**Used**: `{}`\n**Free**: `{}`\n\n**📊 Data Usage 📊**\n**Upload**: `{}`\n**Down**: `{}`\n\n**CPU**: `{}%`\n**RAM**: `{}%`\n**DISK**: `{}%`"
 usage_simple: "**Total Disk Space**: `{}`\n**Used**: `{}`\n**Free**: `{}`\n\n**📊 Data Usage 📊**\n**Upload**: `{}`\n**Down**: `{}`\n\n**CPU**: `{}%`\n**RAM**: `{}%`\n**DISK**: `{}%`"
 shutdown: "GoodBye {}.\n`Shutting down...`"
@@ -199,7 +199,7 @@ bd_8: "`Removing...`"
 bd_9: "Channel is already removed from database. "
 
 # calculator
-calc_1: "• Ultroid Inline Calculator •"
+calc_1: "• Ultroshit Inline Calculator •"
 calc_2: "Open Calculator Again"
 
 # channel hacks
@@ -227,7 +227,7 @@ chats_1: "`Cant delete this chat.`"
 chats_2: "`I m not an admin`"
 chats_3: "#Deleted\nDeleted {}"
 chats_4: "Your [{}]({}) Group Made Boss!"
-chats_5: "Join @TeamUltroid"
+chats_5: "Join @rexaprivateroom"
 chats_6: "Your {} Group/Channel Has been made Boss!"
 
 # clean action
@@ -279,7 +279,7 @@ devs_3: "`Give Some C++ Code..`"
 # dm
 dm_1: "`Give Chat username or id where to send.`"
 dm_2: "`Give text to send or reply to msg`"
-dm_3: "⚜️ Message Delivered! ⚜️"
+dm_3: "💌 Message Delivered!"
 dm_4: "Error : {}\nRead Usage : `{}help other`"
 dm_5: "`Check in Private.`"
 dm_6: "`No message found to deliver :(`"
